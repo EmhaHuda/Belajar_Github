@@ -1,1 +1,2 @@
 file pertama saya
+menambahkan line baru pada file_one.txt
